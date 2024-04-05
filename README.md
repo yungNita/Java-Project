@@ -13,3 +13,7 @@
     - git branch task1 main
     - git stash -u
     - git co task1
+    - create pull request 
+    - owner  or admin is the one who has the right to merg the branch
+
+## GitHub pull request (vscode extension)
